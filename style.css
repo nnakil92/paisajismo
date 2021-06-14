@@ -1,0 +1,62 @@
+
+body {
+	width: 950px;
+}
+div {
+	font-family: Roboto bold;
+	background-color: #dcdcdc;
+
+	margin: 10px;
+	padding: 15px;
+	border-radius: 8px; 
+	box-shadow: 10px 5px 20px gray; 
+	border: 1px black;
+	width: 500; 
+}
+
+img{
+	width: 800px;
+	border-radius: 15px
+}
+h1 { color:#2f4f4f;
+	background: #8fbc8f;
+	background-size: cover;
+	margin: 80px;
+	padding:15px;
+	text-align: center;
+	box-shadow: 10px 20px 20px #228b22;
+
+}
+
+h2 {text-align: center;
+	background-color: #778899;
+
+}
+#exterior {
+	width: 900px;
+}
+
+#insta {
+	text-align-last: center;
+	width: 200px;
+	color:black;
+
+}
+#foto {
+	width: 500px;
+	
+#presentacion {
+	width: 800px;
+
+}
+
+
+
+}
+
+}
+body {background: silver;
+
+
+ }
+
